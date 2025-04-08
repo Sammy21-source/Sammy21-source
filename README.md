@@ -4,7 +4,7 @@ Welcome to my portfolio! I'm Sammy,a passionate developer with a strong interest
 
 ## About Me
 
-Hi, I’m [Your Name]! I am a web developer who specializes in [ Front-end development, Full-stack development, etc.]. I have experience working with a variety of technologies, and I’m always eager to learn more. In my free time, I enjoy coding.
+Hi, I’m Sammy! I am a web developer who specializes in [ Front-end development, Full-stack development, etc.]. I have experience working with a variety of technologies, and I’m always eager to learn more. In my free time, I enjoy coding.
 
 - Location: [Abeokuta,Ogun State]
 - Email: [timileyinadeniiji465@gmail.com]
@@ -14,10 +14,10 @@ Hi, I’m [Your Name]! I am a web developer who specializes in [ Front-end devel
 
 ## Skills
 
-- **Programming Languages:** JavaScript, Python, Java, C++
+- **Programming Languages:** JavaScript, Python, C++
 - **Web Technologies:** HTML5, CSS3, React, Node.js, Express, MongoDB
 - **Version Control:** Git, GitHub
-- **Tools & Frameworks:** Docker, AWS, Nginx, TailwindCSS
+- **Tools & Frameworks:** Docker, AWS, TailwindCSS
 - **Other:** Agile/Scrum, Problem-solving, Collaboration
 
 ---
@@ -28,12 +28,6 @@ Hi, I’m [Your Name]! I am a web developer who specializes in [ Front-end devel
 A brief description of what this project is about, what technologies you used, and any key features you’d like to highlight.
 
 - **Technologies used:** React, Node.js, MongoDB
-- **Link to project:** [Project URL]
-
-### 2. [Project Name](Link to Project)
-A brief description of this project, your role, and technologies used.
-
-- **Technologies used:** JavaScript, CSS, HTML
 - **Link to project:** [Project URL]
 
 ---
