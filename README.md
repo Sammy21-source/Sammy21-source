@@ -82,6 +82,6 @@ A full-stack web application to help users manage their daily tasks and increase
 ## Contact
 
 Feel free to reach out if you want to collaborate or just have a chat!
--portfolio:[Coming soon...]
+- **portfolio:** [Coming soon...]
 - **Email:** [Timileyin Adeniji](mailto:timileyinadeniji465@gmail.com)
 - **GitHub:** https://github.com/Sammy21-source
