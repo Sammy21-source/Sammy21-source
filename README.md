@@ -14,7 +14,7 @@ Hi, I’m Sammy! I am a web developer who specializes in [ Front-end development
 
 ---
 
-##🧰 Skills
+## 🧰 Skills
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css)
 
