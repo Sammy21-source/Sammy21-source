@@ -43,6 +43,8 @@ A responsive and interactive personal portfolio website to showcase my skills, p
 - Contact form for potential clients or employers
 - Blog section to share insights and tutorials
 
+---
+
 ### 🛒 E-commerce Mobile App
 
 **Tech Stack:** Flutter, Firebase
