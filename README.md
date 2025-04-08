@@ -36,12 +36,6 @@ A brief description of this project, your role, and technologies used.
 - **Technologies used:** JavaScript, CSS, HTML
 - **Link to project:** [Project URL]
 
-### 3. [Project Name](Link to Project)
-A short overview of this project and what you learned.
-
-- **Technologies used:** Python, Flask
-- **Link to project:** [Project URL]
-
 ---
 
 ## Contact
