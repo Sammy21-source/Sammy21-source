@@ -43,8 +43,6 @@ A responsive and interactive personal portfolio website to showcase my skills, p
 - Contact form for potential clients or employers
 - Blog section to share insights and tutorials
 
----
-
 ### 🛒 E-commerce Mobile App
 
 **Tech Stack:** Flutter, Firebase
@@ -57,7 +55,6 @@ A cross-platform mobile application for an online store, providing users with a 
 - Shopping cart and checkout process
 - User authentication and profile management
 - Integration with payment gateways
-
 
 ---
 
@@ -76,9 +73,11 @@ A full-stack web application to help users manage their daily tasks and increase
 
 ---
 
+
+
 ## Contact
 
 Feel free to reach out if you want to collaborate or just have a chat!
-
-- **Email:** [timileyinadeniji465@gmail.com]
+-portfolio:[Coming soon...]
+- **Email:** [Timileyin Adeniji](mailto:timileyinadeniji465@gmail.com)
 - **GitHub:** https://github.com/Sammy21-source
