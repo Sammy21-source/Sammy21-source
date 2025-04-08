@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a5bff3e4-7ecc-4ecd-9eda-0286986935a3)
+
 # My Portfolio
 
 Welcome to my portfolio! I'm Sammy,a passionate developer with a strong interest in building web applications and software solutions. Below, you'll find a bit about me, my skills, and some of the projects I’ve worked on.
