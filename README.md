@@ -8,7 +8,7 @@ Hi, I’m [Your Name]! I am a web developer who specializes in [ Front-end devel
 
 - Location: [Abeokuta,Ogun State]
 - Email: [timileyinadeniiji465@gmail.com]
-- GitHub: [Your GitHub Link]
+- GitHub: https://github.com/Sammy21-source
 
 ---
 
@@ -43,4 +43,4 @@ A brief description of this project, your role, and technologies used.
 Feel free to reach out if you want to collaborate or just have a chat!
 
 - **Email:** [timileyinadeniji465@gmail.com]
-- **GitHub:** [Your GitHub URL]
+- **GitHub:** https://github.com/Sammy21-source
