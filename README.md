@@ -13,22 +13,66 @@ Hi, I’m Sammy! I am a web developer who specializes in [ Front-end development
 ---
 
 ## Skills
+### Languages
+![Languages](https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css)
 
-- **Programming Languages:** JavaScript, Python, C++
-- **Web Technologies:** HTML5, CSS3, React, Node.js, Express, MongoDB
-- **Version Control:** Git, GitHub
-- **Tools & Frameworks:** Docker, AWS, TailwindCSS
-- **Other:** Agile/Scrum, Problem-solving, Collaboration
+### Frameworks & Libraries
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,express,tailwind,flutter,django,fastapi)
+
+### Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,github,vercel,figma,docker,linux,postman,vscode)
 
 ---
 
-## Projects
+## 🧰 Projects
 
-### 1. [Project Name](Link to Project)
-A brief description of what this project is about, what technologies you used, and any key features you’d like to highlight.
+Here are some of my favorite or most impactful projects:
 
-- **Technologies used:** React, Node.js, MongoDB
-- **Link to project:** [Project URL]
+---
+
+### 🌐 Personal Portfolio Website
+
+**Tech Stack:** HTML, CSS, JavaScript, React
+
+**Description:**  
+A responsive and interactive personal portfolio website to showcase my skills, projects, and experiences.
+
+**Features:**
+- About Me section with a professional bio
+- Projects showcase with descriptions and links
+- Contact form for potential clients or employers
+- Blog section to share insights and tutorials
+
+---
+
+### 🛒 E-commerce Mobile App
+
+**Tech Stack:** Flutter, Firebase
+
+**Description:**  
+A cross-platform mobile application for an online store, providing users with a seamless shopping experience.
+
+**Features:**
+- Product listings with detailed descriptions and images
+- Shopping cart and checkout process
+- User authentication and profile management
+- Integration with payment gateways
+
+
+---
+
+### ✅ Task Management App
+
+**Tech Stack:** Node.js, Express, MongoDB, React
+
+**Description:**  
+A full-stack web application to help users manage their daily tasks and increase productivity.
+
+**Features:**
+- User authentication and authorization
+- Create, read, update, and delete tasks
+- Set deadlines and reminders for tasks
+- Categorize tasks by priority or project
 
 ---
 
